@@ -1,0 +1,14 @@
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Students Dashboard UI Design\Students Dashboard UI Design\bin\Debug\Students Dashboard UI Design.exe.config
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Students Dashboard UI Design\Students Dashboard UI Design\bin\Debug\Students Dashboard UI Design.exe
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Students Dashboard UI Design\Students Dashboard UI Design\bin\Debug\Students Dashboard UI Design.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Students Dashboard UI Design\Students Dashboard UI Design\bin\Debug\Students Dashboard UI Design.xml
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Students Dashboard UI Design\Students Dashboard UI Design\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Students Dashboard UI Design\Students Dashboard UI Design\obj\Debug\Students Dashboard UI Design.vbprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Students Dashboard UI Design\Students Dashboard UI Design\obj\Debug\Students_Dashboard_UI_Design.Form1.resources
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Students Dashboard UI Design\Students Dashboard UI Design\obj\Debug\Students_Dashboard_UI_Design.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Students Dashboard UI Design\Students Dashboard UI Design\obj\Debug\Students Dashboard UI Design.vbproj.GenerateResource.cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Students Dashboard UI Design\Students Dashboard UI Design\obj\Debug\Students Dashboard UI Design.vbproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Students Dashboard UI Design\Students Dashboard UI Design\obj\Debug\Students Dashboard UI Design.vbproj.CopyComplete
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Students Dashboard UI Design\Students Dashboard UI Design\obj\Debug\Students Dashboard UI Design.exe
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Students Dashboard UI Design\Students Dashboard UI Design\obj\Debug\Students Dashboard UI Design.xml
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Students Dashboard UI Design\Students Dashboard UI Design\obj\Debug\Students Dashboard UI Design.pdb
